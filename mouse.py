@@ -26,7 +26,7 @@ texto_orientecao.grid(column=0, row=1, padx=10, pady=10)
 botao = Button(janela, text = "ATIVAR", command=mouse)
 botao.grid(column=0, row=3, padx=10, pady=10)
         
-texto_finalizado = Label(janela, text="")
+texto_finalizado = Label(janela, text="Mexa o mouse finalizar aplicação")
 texto_finalizado.grid(column=0, row=6, padx=10, pady=10)
 
 janela.mainloop()
