@@ -1,7 +1,6 @@
 from re import escape
 import pyautogui 
 from tkinter import *
-import os
 import sys
 
 
